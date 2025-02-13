@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:service\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\repository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:repository\\icrudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:repository\\crudrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\repository\\context\\dbbaglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:repository\\context\\dbbaglan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\entity\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:entity\\customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|c:\\users\\hayat\\onedrive\\masa\u00FCst\u00FC\\projelerim\\dbconnectproject\\controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49D458ED-4264-44B8-A568-D1085001BFBD}|DBConnectProject.csproj|solutionrelative:controller\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:11:19.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\service\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "service\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\service\\ICustomerService.cs",
+              "RelativeToolTip": "service\\ICustomerService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:09:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\service\\CustomerService.cs",
+              "RelativeDocumentMoniker": "service\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\service\\CustomerService.cs",
+              "RelativeToolTip": "service\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:56.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\ICrudRepository.cs",
+              "RelativeDocumentMoniker": "repository\\ICrudRepository.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\ICrudRepository.cs",
+              "RelativeToolTip": "repository\\ICrudRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:46.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\CustomerRepository.cs",
+              "RelativeToolTip": "repository\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\CrudRepository.cs",
+              "RelativeDocumentMoniker": "repository\\CrudRepository.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\CrudRepository.cs",
+              "RelativeToolTip": "repository\\CrudRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:38.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbBaglan.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\context\\DbBaglan.cs",
+              "RelativeDocumentMoniker": "repository\\context\\DbBaglan.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\repository\\context\\DbBaglan.cs",
+              "RelativeToolTip": "repository\\context\\DbBaglan.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:35.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customers.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\entity\\Customers.cs",
+              "RelativeDocumentMoniker": "entity\\Customers.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\entity\\Customers.cs",
+              "RelativeToolTip": "entity\\Customers.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\controller\\CustomerController.cs",
+              "RelativeDocumentMoniker": "controller\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\hayat\\OneDrive\\Masa\u00FCst\u00FC\\Projelerim\\DBConnectProject\\controller\\CustomerController.cs",
+              "RelativeToolTip": "controller\\CustomerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T20:08:23.264Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
